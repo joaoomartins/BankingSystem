@@ -26,3 +26,4 @@ C:\Users\joao6\OneDrive\Ambiente de Trabalho\BankingSystem\BankingSystem\obj\Rel
 C:\Users\joao6\OneDrive\Ambiente de Trabalho\BankingSystem\BankingSystem\obj\Release\net6.0\BankingSystem.pdb
 C:\Users\joao6\OneDrive\Ambiente de Trabalho\BankingSystem\BankingSystem\obj\Release\net6.0\BankingSystem.genruntimeconfig.cache
 C:\Users\joao6\OneDrive\Ambiente de Trabalho\BankingSystem\BankingSystem\obj\Release\net6.0\ref\BankingSystem.dll
+C:\Users\joao6\OneDrive\Ambiente de Trabalho\BankingSystem\BankingSystem\obj\Release\net6.0\BankingSystem.sourcelink.json
